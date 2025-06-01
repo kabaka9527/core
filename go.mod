@@ -1,6 +1,6 @@
 module github.com/project-nano/core
 
-go 1.19
+go 1.23.8
 
 replace (
 	github.com/project-nano/core/imageserver => ./src/imageserver
